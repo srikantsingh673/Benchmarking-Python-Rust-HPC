@@ -1,0 +1,4 @@
+pandas
+matplotlib
+seaborn
+maturin==1.9.6
